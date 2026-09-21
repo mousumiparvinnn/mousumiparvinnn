@@ -51,8 +51,10 @@ Data analyst who turns messy spreadsheets into clean data and visualize it with 
 ### 💭 Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+  <i>"Great things are done by a series of small things brought together."</i><br>
+  — Vincent van Gogh
 </p>
+
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/mousumiparvinnn">mousumiparvinnn</a></i></p>
